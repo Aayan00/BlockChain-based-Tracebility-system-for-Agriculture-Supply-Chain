@@ -1,0 +1,32 @@
+# Core Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# QR Code Generation
+qrcode==7.4.2
+pillow==10.0.0
+
+# Blockchain Integration (Optional - for real blockchain)
+web3==6.11.0
+
+# Data Handling
+requests==2.31.0
+python-dotenv==1.0.0
+
+# JSON Handling (built-in, no need to install)
+# json
+# datetime
+# hashlib
+# uuid
+
+# For Development
+# These are optional but helpful for debugging
+colorama==0.4.6
+
+Flask==2.3.3
+Flask-CORS==4.0.0
+qrcode==7.4.2
+Pillow==10.0.0
+web3==6.11.0
+requests==2.31.0
+python-dotenv==1.0.0
